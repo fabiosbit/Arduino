@@ -1,7 +1,7 @@
 //Created 24 May 2011 by Jim Lindblom SparkFun Electronics https://www.sparkfun.com/products/10182 "Example Code"
 //Updated 24 Apr 2012 by Jean David SEDRUE Version betatest26 - 24042012 http://www.gamoover.net/Forums/index.php?topic=25907
 //Updated 20 May 2013 by RacingMat in english http://www.x-sim.de/forum
-//Modificado por Fábiosbit em Agosto de 2020.
+//Modificado em Agosto de 2020 por Fabiosbit.
 
 #define pinMotorDireito 1
 #define pinMotorEsquerdo 0
