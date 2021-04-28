@@ -63,7 +63,8 @@ void loop()
   MoverMotor(pinMotorDireito, posAtualDireito, posDestinoDireito);	//Liga o motor direito até chegar na nova posição
   MoverMotor(pinMotorEsquerdo, posAtualEsquerdo, posDestinoEsquerdo);	//Liga o motor esquerdo até chegar na nova posição
 
-//  LerPotenciometros(); //Descomente esta função para verificar e ajustar os potenciômetros
+//Descomente a função abaixo para ajustar a posição dos potenciômetros, depois comente novamente
+//  LerPotenciometros(); 
 }
 
 ////////////////////////////////////////////////////////////////////////////////
